@@ -23,17 +23,17 @@ Here are some pictures of the dashboard:
 ### 1. Main Dashboard (Weekly Details)
 This page shows how well the hotels performed each week.
 
-![Dashboard 1](<img width="1353" height="758" alt="image" src="https://github.com/user-attachments/assets/3dd7b294-2b95-4cfe-b476-083d8685b830" />)
+<img width="1353" height="758" alt="image" src="https://github.com/user-attachments/assets/3dd7b294-2b95-4cfe-b476-083d8685b830" />
 
 ### 2. Property Dashboard (Hotel & Room Details)
 This page shows numbers for each hotel and which room types are most popular.
 
-![Dashboard 2](<img width="1208" height="552" alt="image" src="https://github.com/user-attachments/assets/1e4ddee9-d636-4fec-99c4-ba9bc01f71cb" />)
+<img width="1208" height="552" alt="image" src="https://github.com/user-attachments/assets/1e4ddee9-d636-4fec-99c4-ba9bc01f71cb" />
 
 ### 3. Summary Dashboard (Big Picture)
 This page shows a simple summary of revenue, filled rooms, and ratings by city.
 
-![Dashboard 3](<img width="1223" height="556" alt="image" src="https://github.com/user-attachments/assets/ab3d6852-c9f0-49e6-b8c7-08d12bafd60c" />)
+<img width="1223" height="556" alt="image" src="https://github.com/user-attachments/assets/ab3d6852-c9f0-49e6-b8c7-08d12bafd60c" />
 
 ---
 
